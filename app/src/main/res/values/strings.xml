@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="android">Android</string>
+    <string name="hello">Hello how are you I am fine thank you</string>
+</resources>
